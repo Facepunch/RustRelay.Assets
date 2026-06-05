@@ -1,4 +1,4 @@
-# [Rust](https://rust.facepunch.com/) Relay Assets
+# RustRelay Assets
 
 A library of [Rust](https://rust.facepunch.com/) 3D models exported as binary glTF 2.0 (`.glb`),
 optimized for web delivery (Draco-compressed geometry + WebP textures).
